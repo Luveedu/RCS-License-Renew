@@ -1,5 +1,5 @@
 # RCS-License-Renew
-Renew Your RCS Licenses! - No.1 
+Renew Your RCS Licenses! - Instant renew all licenses anytime.
 
 
 ###
