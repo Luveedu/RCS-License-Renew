@@ -4,6 +4,7 @@
 commands=(
     "RcLicenseCP"
     "touch /etc/.verifylicense ; RcLicenseCP"
+    "RcLicenseCP -fix"
     "RcLicenseLSWS"
     "RcLicenseCLN"
     "RcLicenseSoftaculous"
