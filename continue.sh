@@ -7,6 +7,7 @@ commands=(
     "RcLicenseCP -fix"
     "RcLicenseLSWS"
     "RcLicenseCLN"
+    "RcLicenseKernelCare"
     "RcLicenseSoftaculous"
     "RcLicenseImunify360"
 )
