@@ -10,6 +10,8 @@ commands=(
     "RcLicenseKernelCare"
     "RcLicenseSoftaculous"
     "RcLicenseImunify360"
+    "RcLicenseCLN --tuxcare"
+    "RcLicenseBackuply"
 )
 
 # Execute each command with a 2-second delay
